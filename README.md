@@ -1,15 +1,12 @@
 <title>🏠 Laman utama</title>
 
 
-    
-
-   <!DOCSTYPE html
-
-  <html lang="ar-rMY"
-
-    
-
     <head>
+<body>
+
+    
+
+
 
             <h2 dir="rtl" style="text-align: center;">
 
@@ -27,9 +24,9 @@
 
         </style>
 
-      </head>
+    
 
-      <body>
+    
 
         
 
