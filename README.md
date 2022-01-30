@@ -3,11 +3,15 @@
 
     
 
+   <!DOCSTYPE html
+
+  <html lang="ar-rMY"
+
     
 
-      <div class="separator" style="clear: both; text-align: center;"><a href="https://www.pngitem.com/pimgs/m/21-214634_tv-logo-transparent-background-hd-png-download.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="100" data-original-width="100" height="100" src="https://www.pngitem.com/pimgs/m/21-214634_tv-logo-transparent-background-hd-png-download.png" width="100" /></a></div><br
+    <head>
 
-      <h2 dir="rtl" style="text-align: center;">
+            <h2 dir="rtl" style="text-align: center;">
 
         <p><span style="font-family: Amiri;">السلام عليكم ورحمة الله وبركاته دان سلام سجهترا، سلامت داتڠ كأڤليكاسي ١٠ڠوق!</span></h2></html>
 
