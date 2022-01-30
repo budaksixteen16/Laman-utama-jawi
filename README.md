@@ -1,4 +1,4 @@
-<!DOCSTYPE html
+<title>🏠 Laman utama</title>
 
   <html lang="ar-rMY"
 
